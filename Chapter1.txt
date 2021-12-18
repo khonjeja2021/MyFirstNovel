@@ -8,3 +8,5 @@ Specifically, they define a team as, "a small number of people with complementar
 who are committed to a common purpose, set of performance goals, and approach for which 
 they hold themselves mutually accountable.”
 This definition reveals four key team attributes: 
+
+This is great
