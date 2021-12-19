@@ -1,3 +1,6 @@
 # Plan 1
 To Master git and Github the best I can do
 To effortlessly apply git to my projects going forward
+## I plan to understand the benefits of Branches:  
+https://www.atlassian.com/git/tutorials/using-branches#:~:text=In%20Git%2C%20branches%20are%20a,branch%20to%20encapsulate%20your%20changes.
+It's important to understand that branches are just pointers to commits. When you create a branch, all Git needs to do is create a new pointer, it doesn’t change the repository in any other way.
